@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawiin&theme=onedark&show_icons=true)
 
-### Tecnologias que mais utilizo no dia a dia.
+### Tecnologias que utilizo no dia a dia.
 <img width="50px" heidth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img width="50px" heith="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 ### Siga-me nas redes:
