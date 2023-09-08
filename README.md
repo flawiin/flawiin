@@ -2,11 +2,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawiin&theme=dark&show_icons=true&layout=compact) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flawiin)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/flawiin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flawiin&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/flawiin/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flawiin&repo=convoychat" />
 </a>
 
 ### Tecnologias que utilizo no dia a dia.
