@@ -1,5 +1,13 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawiin&theme=dark&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flawiin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawiin&theme=dark&show_icons=true&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flawiin)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ### Tecnologias que utilizo no dia a dia.
 <img width="50px" heidth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img width="50px" heidth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
