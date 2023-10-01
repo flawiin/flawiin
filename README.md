@@ -1,12 +1,19 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawiin&theme=dark&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flawiin&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="left">
+  <a href="https://github.com/flawiin">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flawiin&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawiin&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 
 ### Tecnologias que utilizo no dia a dia.
 
-<img style="margin-right: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img style="margin-right: 60px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/><img style="margin-right: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/><img style="margin-right: 20px;" width="50" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>                                                                         
+<div><br>
+<img style="margin-right: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img style="margin-right: 60px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+<img style="margin-right: 20px;" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+<img style="margin-right: 20px;" width="50" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>                                                                        
           
           
                     
