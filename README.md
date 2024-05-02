@@ -1,4 +1,4 @@
-###⚡️ Flávio Pimentel ⚡️###
+### ⚡️ Flávio Pimentel ⚡
 
 <div align="left">
   <a href="https://github.com/flawiin">
