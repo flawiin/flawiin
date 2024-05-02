@@ -1,6 +1,6 @@
 ### ⚡️ Flávio Pimentel ⚡
 
-##### 🔘 Construíndo o futuro digital, um código de cada vez!
+### 🔘 Construíndo o futuro digital, um código de cada vez!
 
 <div align="left">
   <a href="https://github.com/flawiin">
