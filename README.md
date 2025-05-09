@@ -16,7 +16,7 @@
 🛠️ Estudando Front-end com foco em projetos práticos e aprendizado contínuo.
 
 
-#### Tecnologias que utilizo no dia a dia.
+#### Tecnologias que utilizo no dia a dia:
 
 <div align="left" valign="top"><br>
   
