@@ -1,6 +1,5 @@
-# ⚡ Flávio Pimentel ⚡  
-
-### 💻 Front-end Developer em formação | HTML • CSS • JS • React
+# ⚡ Flávio Pimentel ⚡ 
+💻 Front-end Developer em formação | HTML • CSS • JS • React
 
 <div align="left">
   <a href="https://github.com/flawiin">
@@ -9,8 +8,15 @@
   </a>
 </div>
 
+<br>
 
-### Tecnologias que utilizo no dia a dia.
+
+🎯 Apaixonado por desenvolvimento web e tecnologia.  
+🚀 Em constante evolução, focado em criar interfaces modernas e funcionais.  
+🛠️ Estudando Front-end com foco em projetos práticos e aprendizado contínuo.
+
+
+#### Tecnologias que utilizo no dia a dia.
 
 <div align="left" valign="top"><br>
   
@@ -24,12 +30,10 @@
           
   
           
-</div><br>                                                                    
+</div><br> 
           
           
-                    
-
-### Siga-me nas redes:
+#### Siga-me nas redes:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flawiin/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/real_pimentel)
