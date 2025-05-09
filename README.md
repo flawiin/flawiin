@@ -1,6 +1,6 @@
-# ⚡️ Flávio Pimentel ⚡
+# ⚡ Flávio Pimentel ⚡  
 
-### 🔘 Construíndo o futuro digital, um código de cada vez!
+### 💻 Front-end Developer em formação | HTML • CSS • JS • React
 
 <div align="left">
   <a href="https://github.com/flawiin">
