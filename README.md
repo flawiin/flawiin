@@ -25,6 +25,14 @@
 <img align="center" alt="ts" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="react" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="git" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="git" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="git" height="68" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+                   
+          
+
+
+          
 
           
           
