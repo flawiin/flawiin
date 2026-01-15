@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-stats-seven-sigma.vercel.app/api?username=flawiin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-stats-seven-sigma.vercel.app/api/top-langs/?username=flawiin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-Agora apareceu i
+
 <br>
 
 
