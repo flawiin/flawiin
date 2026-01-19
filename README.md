@@ -1,4 +1,23 @@
-# ⚡ Flávio Pimentel ⚡ 
+## Olá, eu sou o Flávio 👋
+
+<br>
+
+Sou Desenvolvedor Front-End Júnior, formado em Análise e Desenvolvimento de Sistemas, com foco na construção de interfaces web responsivas, acessíveis e de fácil manutenção.
+
+Atualmente desenvolvo projetos utilizando HTML5 e CSS3, aplicando boas práticas como código semântico, mobile-first e design responsivo. Também possuo conhecimentos iniciais em JavaScript, que venho aplicando em projetos pessoais disponíveis neste GitHub. <br>
+
+### 🧩 O que você vai encontrar nos meus projetos
+
+- Páginas e aplicações web com foco em responsividade  
+- Estrutura HTML semântica e organizada  
+- CSS bem estruturado com Flexbox e Grid  
+- Projetos práticos desenvolvidos para estudo e consolidação de base front-end 
+
+<br>
+
+Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior, onde possa evoluir tecnicamente e contribuir com código limpo e bem estruturado. 
+
+<br>
 
 ## 📊 Estatísticas do GitHub
 
@@ -7,27 +26,7 @@
   <img height="180em" src="https://github-stats-seven-sigma.vercel.app/api/top-langs/?username=flawiin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<br>
 
-
-🎯 Apaixonado por desenvolvimento web e tecnologia.  
-🚀 Em constante evolução, focado em criar interfaces modernas e funcionais.  
-🛠️ Estudando Front-end com foco em projetos práticos e aprendizado contínuo.
-
-
-#### Tecnologias que utilizo no dia a dia:
-
-<div align="left" valign="top"><br>
-  
-<img align="center" alt="HTML" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="CSS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="ts" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="react" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="git" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="git" height="72" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="git" height="68" width="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
                    
           
 
