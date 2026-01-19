@@ -13,8 +13,6 @@ Atualmente desenvolvo projetos utilizando HTML5 e CSS3, aplicando boas práticas
 - CSS bem estruturado com Flexbox e Grid  
 - Projetos práticos desenvolvidos para estudo e consolidação de base front-end 
 
-<br>
-
 ## 📚 Em aprendizado contínuo
 
 <p>
@@ -28,7 +26,7 @@ Atualmente desenvolvo projetos utilizando HTML5 e CSS3, aplicando boas práticas
 
 Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior, onde possa evoluir tecnicamente e contribuir com código limpo e bem estruturado. 
 
-<br>
+<br><br><br>
 
 ## 📊 Estatísticas do GitHub
 
