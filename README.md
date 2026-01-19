@@ -26,20 +26,8 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júni
   <img height="180em" src="https://github-stats-seven-sigma.vercel.app/api/top-langs/?username=flawiin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
-                   
-          
-
-
-          
-
-          
-          
-  
-          
-</div><br> 
-          
-          
+<br> 
+               
 #### Siga-me nas redes:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flawiin/)
