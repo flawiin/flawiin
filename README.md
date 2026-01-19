@@ -15,6 +15,17 @@ Atualmente desenvolvo projetos utilizando HTML5 e CSS3, aplicando boas práticas
 
 <br>
 
+## 📚 Em aprendizado contínuo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
+<br>
+
 Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End Júnior, onde possa evoluir tecnicamente e contribuir com código limpo e bem estruturado. 
 
 <br>
